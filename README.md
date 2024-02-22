@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 </p>
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=octantus&repo=Mobile-game-research)([https://github.com/anuraghazra/github-readme-stats](https://github.com/octantus/Mobile-game-research)https://github.com/octantus/Mobile-game-research)</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 </details>
