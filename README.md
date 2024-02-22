@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=297DF7&random=false&width=435&lines=Hello+everyone!)](https://git.io/typing-svg)
 <!--
 **octantus/octantus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
