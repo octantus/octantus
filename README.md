@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/octantus/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/YktAmYk.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/687762080719175693/" alt="Discord" title="My Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discordapp.com/users/687762080719175693/" alt="Discord" title="My Discord"><img width="32px" src="https://i.imgur.com/B0dsrZH.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/havenoheart" alt="Telegram" title="Telegram"><img width="32px" src="https://i.imgur.com/O0IKlk0.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
