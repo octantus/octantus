@@ -21,5 +21,4 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/havenoheart" alt="Telegram" title="Telegram"><img width="32px" src="https://i.imgur.com/O0IKlk0.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  https://i.imgur.com/O0IKlk0.png
 </p>
