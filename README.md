@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Social icons section -->
-<!-- <p align="center">
+ <p align="center">
   <a href="https://www.linkedin.com/in/octantus/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/9bPp1kS.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/havenoheart" alt="Telegram" title="Telegram"><img width="32px" src="https://i.imgur.com/xBcFpz5.png"/></a>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/oladujke" alt="Spotify" title="Spotify"><img width="32px" src="https://i.imgur.com/7lascTX.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<details open> 
+<!--<details open> 
   <summary><h2>📘 My projects</h2></summary>
 <p align="left">
 <a href="https://github.com/octantus/Mobile-game-research"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=octantus&repo=Mobile-game-research&theme=react&bg_color=1F222E&title_color=4a5ee0&hide_border=true&icon_color=F8D866&show_icons=false"></a>
