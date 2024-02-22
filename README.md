@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=octantus&repo=Mobile-game-research)](https://github.com/octantus/Mobile-game-research)
+
+<a href="https://github.com/octantus/Mobile-game-research"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=octantus&repo=Mobile-game-research&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
