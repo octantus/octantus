@@ -24,8 +24,5 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/oladujke" alt="Spotify" title="Spotify"><img width="32px" src="https://i.imgur.com/7lascTX.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
-</details>
