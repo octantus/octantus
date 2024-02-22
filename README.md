@@ -30,6 +30,6 @@ Here are some ideas to get you started:
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/octantus/Mobile-game-research"><img width="278" src="https://octantus-github-readme-stats.vercel.app/api/pin/?username=octantus1&repo=Mobile-game-research&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mobile-game-research"></a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=octantus&repo=Mobile-game-research)([https://github.com/anuraghazra/github-readme-stats](https://github.com/octantus/Mobile-game-research)https://github.com/octantus/Mobile-game-research)</a>
   </p>
 </details>
