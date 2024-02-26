@@ -84,5 +84,5 @@
 </p>
  <p>
    <p align="center">
-  <img src="https://www.buzzback.com/hubfs/arrow-down-1.gif" width="90" height="111" />
+  <img src="https://www.buzzback.com/hubfs/arrow-down-1.gif" width="90" height="105" />
   </p>
