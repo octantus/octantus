@@ -81,7 +81,8 @@
 <hr>
 <p align="center">
   <img src="https://github.com/octantus/octantus/assets/65022781/1cfefe53-8389-4311-94bb-cc52057d4829" />
-  <p>
+</p>
+ <p>
+   <p align="center">
   <img src="https://www.buzzback.com/hubfs/arrow-down-1.gif" width="90" height="111" />
   </p>
-</p>
