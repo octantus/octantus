@@ -82,7 +82,6 @@
 <p align="center">
   <img src="https://i.imgur.com/I9Tg6o7.jpeg" width="566" height="373"/>
 </p>
- <p>
-   <p align="center">
+<p align="center">
   <img src="https://www.buzzback.com/hubfs/arrow-down-1.gif" width="90" height="105" />
-  </p>
+</p>
