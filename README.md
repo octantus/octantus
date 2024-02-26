@@ -11,7 +11,7 @@
 
 🍀 I believe my skills in problem solving and building complex concepts will be valuable in an analyst role. I'm keen to share knowledge and learn from others.
 
-<p align="left">
+<p align="center">
   <h3>✉️ How to reach me: </h3>
   <a href="https://www.linkedin.com/in/octantus/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/9bPp1kS.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
