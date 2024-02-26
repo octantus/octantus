@@ -78,10 +78,9 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
+<hr>
 <details open> 
   <summary><h3>📑My projects📑</h3></summary>
-<hr>
 <p align="center">
   <img src="https://i.imgur.com/I9Tg6o7.jpeg" width="350 " height="231"/>
 </p>
