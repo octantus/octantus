@@ -1,4 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=4a5ee0&random=false&width=435&lines=Hi+there,+my+name+is+Ana!)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20my%20name%20is%20Ana!;10%2B%Data-analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 - 🔭 I'm deeply interested in data analysis and programming, and believes that analytics is not just a profession but a way of thinking.
 - 🎓 I'm completed relevant courses, read books on statistics, and actively engage with the data science community.
