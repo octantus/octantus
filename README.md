@@ -24,7 +24,7 @@
 </p>
 <hr style="width:50%;text-align:left;margin-left:0">
 <details open> 
-  <summary><h3>🛠️Tools🛠️</h3></summary>
+  <summary><h3>🛠️Tools </h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>Programming and markup languages:</h3>
@@ -80,7 +80,7 @@
 </details>
 <hr>
 <details open> 
-  <summary><h3>📑My projects📑</h3></summary>
+  <summary><h3>🗄️My projects</h3></summary>
 <p align="center">
   <img src="https://i.imgur.com/I9Tg6o7.jpeg" width="350 " height="231"/>
 </p>
