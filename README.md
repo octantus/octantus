@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
 <details> 
-  <summary><h2>🛠️Tools🛠️</h2></summary>
+  <summary><h3>🛠️Tools🛠️</h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>Programming and markup languages:</h3>
