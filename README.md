@@ -10,7 +10,7 @@
 🎮 In my spare time I like to watch movies, play games and code.
 
 🍀 I believe my skills in problem solving and building complex concepts will be valuable in an analyst role. I'm keen to share knowledge and learn from others.
-
+<hr style="width:50%;text-align:left;margin-left:0">
 <p align="center">
   <h3>✉️ How to reach me: </h3>
     <a href="https://www.linkedin.com/in/octantus/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/9bPp1kS.png"/></a>
@@ -22,6 +22,7 @@
     <a href="https://open.spotify.com/user/oladujke" alt="Spotify" title="Spotify"><img width="32px" src="https://i.imgur.com/7lascTX.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
+<hr style="width:50%;text-align:left;margin-left:0">
 <details open> 
   <summary><h3>🛠️Tools🛠️</h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
