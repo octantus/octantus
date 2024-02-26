@@ -80,7 +80,7 @@
 </details>
 <hr>
 <p align="center">
-  <img src="https://i.imgur.com/I9Tg6o7.jpeg"/>
+  <img src="https://i.imgur.com/I9Tg6o7.jpeg" width="566" height="373"/>
 </p>
  <p>
    <p align="center">
