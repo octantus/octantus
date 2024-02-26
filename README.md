@@ -4,8 +4,11 @@
 </p>
 
 🔭 I'm deeply interested in data analysis and programming, and believes that analytics is not just a profession but a way of thinking.
+
 🎓 I'm completed relevant courses, read books on statistics, and actively engage with the data science community.
+
 🎮 In my free time, I'm enjoy watching films, playing games, and coding.
+
 🍀 I believe that my skills in problem solving and building complex concepts will be valuable in an analyst job. I'm eager to share knowledge and learn from others.
   
 <p align="left">
