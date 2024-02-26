@@ -80,7 +80,7 @@
 </details>
 <hr>
 <p align="center">
-  <img src="https://github.com/octantus/octantus/assets/65022781/1cfefe53-8389-4311-94bb-cc52057d4829" />
+  <img src="https://i.imgur.com/I9Tg6o7.jpeg" />
 </p>
  <p>
    <p align="center">
