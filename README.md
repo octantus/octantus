@@ -22,7 +22,7 @@
     <a href="https://open.spotify.com/user/oladujke" alt="Spotify" title="Spotify"><img width="32px" src="https://i.imgur.com/7lascTX.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
-<details> 
+<details open> 
   <summary><h3>🛠️Tools🛠️</h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
