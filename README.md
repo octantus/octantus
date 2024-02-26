@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!-- Social icons section -->
- <h3📫 How to reach me: </h3>
  <p align="left">
+  <h3📫 How to reach me:</h3>
   <a href="https://www.linkedin.com/in/octantus/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/9bPp1kS.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/havenoheart" alt="Telegram" title="Telegram"><img width="32px" src="https://i.imgur.com/xBcFpz5.png"/></a>
@@ -17,8 +17,7 @@
   <a href="https://discordapp.com/users/687762080719175693/" alt="Discord" title="My Discord"><img width="32px" src="https://i.imgur.com/B0dsrZH.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://open.spotify.com/user/oladujke" alt="Spotify" title="Spotify"><img width="32px" src="https://i.imgur.com/7lascTX.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
+  &#8287;&#8287;&#8287;&#8287;&#8287;  
 </p>
 <details> 
   <summary><h2>🛠️Tools</h2></summary>
