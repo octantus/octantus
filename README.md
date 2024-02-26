@@ -73,5 +73,4 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-<details> 
 ![image](https://github.com/octantus/octantus/assets/65022781/1cfefe53-8389-4311-94bb-cc52057d4829)
