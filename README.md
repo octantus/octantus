@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!%20My%20name%20is%20Ana;🧐;Data%20Analyst📊📈;Always%20learning%20new%20things📓✨&font=Fira%20Code&center=true&width=440&height=45&color=d3e2e8&vCenter=true&pause=1500&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!%20My%20name%20is%20Anastasia;🧐;Data%20Analyst📊📈;Always%20learning%20new%20things📓✨&font=Fira%20Code&center=true&width=440&height=45&color=d3e2e8&vCenter=true&pause=1500&size=22" /></a>
 </p>
 
 🔭 I'm deeply interested in data analysis and programming, and believes that analytics is not just a profession but a way of thinking.
