@@ -3,14 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!%20My%20name%20is%20Anastasia;🧐;Data%20Analyst📊📈;Always%20learning%20new%20things📓✨&font=Fira%20Code&center=true&width=440&height=45&color=d3e2e8&vCenter=true&pause=1500&size=22" /></a>
 </p>
 
-🔭 I'm deeply interested in data analysis and programming, and believes that analytics is not just a profession but a way of thinking.
+🔭 I have a deep interest in data analysis and programming, and I believe that analytics isn't just a profession - it's a way of thinking.
 
-🎓 I'm completed relevant courses, read books on statistics, and actively engage with the data science community.
+🎓 I've taken relevant courses and read books on statistics. I'm actively involved in the data science community.
 
-🎮 In my free time, I'm enjoy watching films, playing games, and coding.
+🎮 In my spare time I like to watch movies, play games and code.
 
-🍀 I believe that my skills in problem solving and building complex concepts will be valuable in an analyst job. I'm eager to share knowledge and learn from others.
-  
+🍀 I believe my skills in problem solving and building complex concepts will be valuable in an analyst role. I'm keen to share knowledge and learn from others.
+
 <p align="left">
   <h3>✉️ How to reach me: </h3>
   <a href="https://www.linkedin.com/in/octantus/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/9bPp1kS.png"/></a>
