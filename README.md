@@ -77,6 +77,7 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+<hr>
 <p align="center">
   <img src="https://github.com/octantus/octantus/assets/65022781/1cfefe53-8389-4311-94bb-cc52057d4829" />
 </p>
