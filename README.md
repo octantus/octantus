@@ -44,7 +44,7 @@
   <p>
       <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt=".NET" src=" https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt=".NET" src=" https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white"></a>
       <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"></a>
