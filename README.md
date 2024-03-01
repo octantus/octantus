@@ -19,8 +19,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://discordapp.com/users/687762080719175693/" alt="Discord" title="My Discord"><img width="32px" src="https://i.imgur.com/B0dsrZH.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/user/oladujke" alt="Spotify" title="Spotify"><img width="32px" src="https://i.imgur.com/7lascTX.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;  
+    <!-- <a href="https://open.spotify.com/user/oladujke" alt="Spotify" title="Spotify"><img width="32px" src="https://i.imgur.com/7lascTX.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;  -->
 </p>
 <hr style="width:50%;text-align:left;margin-left:0">
 
