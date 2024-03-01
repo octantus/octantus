@@ -55,6 +55,7 @@
   <h3>Databases and cloud hosting:</h3>
 
   <p>
+      <a href="#"><img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-%23FFCC01?logo=ClickHouse&logoColor=%23bf991b&labelColor=%23FFCC01"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
