@@ -12,7 +12,7 @@
 🍀 Мои интересы, работа с людьми и опыт в образовательной сфере помогают находить креативные подходы к решению задач и созданию сложных концепций. Я убеждена, что этот навык будет ценным взносом в работе аналитика. Хочу делиться своими знаниями и получать новые взамен.
 <hr style="width:50%;text-align:left;margin-left:0">
 <p align="center">
-  <h3>✉️ How to reach me: </h3>
+  <h3>✉️ Связаться со мной: </h3>
     <a href="https://t.me/havenoheart" alt="Telegram" title="Telegram"><img width="32px" src="https://i.imgur.com/xBcFpz5.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/octantus/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/9bPp1kS.png"/></a>
@@ -25,7 +25,7 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <details open>
-  <summary><h3>🛠️Tools </h3></summary>
+  <summary><h3>🛠️Инструменты </h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>Programming and markup languages:</h3>
