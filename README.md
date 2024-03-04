@@ -86,7 +86,7 @@
 <hr>
 
 <details open> 
-  <summary><h3>🗄️My projects</h3></summary>
+  <summary><h3>🗄️Мои проекты: </h3></summary>
 <p align="center">
   <img src="https://i.imgur.com/I9Tg6o7.jpeg" width="350 " height="231"/>
 </p>
