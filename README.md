@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!%20My%20name%20is%20Anastasia;🧐;Data%20Analyst📊📈&font=Fira%20Code&center=true&width=440&height=45&color=d3e2e8&vCenter=true&pause=1200&size=22" /></a>
-</p>
-
 🔭 Занимаюсь анализом данных и программированием. Аналитика — это стиль мышления, который я стремлюсь развивать и применять в повседневной жизни.
 
 🎓 Для профессионального роста прохожу различные курсы по анализу данных. Читаю книги по статистике, SQL и Python.
